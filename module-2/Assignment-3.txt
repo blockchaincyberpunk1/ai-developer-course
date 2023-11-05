@@ -1,0 +1,55 @@
+Regression vs. Classification
+
+Assignment Overview:
+In this assignment, students will explore the fundamental concepts of regression and classification in the context of machine learning. They will work with a provided dataset or one of their choice to perform both regression and classification tasks. Students will select appropriate machine learning algorithms for each task, train models, and evaluate their performance using relevant metrics.
+
+Assignment Instructions:
+
+Task 1: Introduction to Regression and Classification (15 minutes)
+
+Provide an introduction to the assignment, explaining the distinctions between regression and classification tasks in machine learning and their real-world applications.
+Task 2: Dataset Selection (15 minutes)
+2. Provide students with a dataset for the assignment that is suitable for both regression and classification tasks. Ensure that the dataset contains relevant features and a target variable.
+
+Task 3: Regression Task (2 - 3 hours)
+3. Instruct students to perform the following tasks for the regression part:
+
+Data Preprocessing:
+
+Handle missing values, scale features if necessary, and encode categorical variables.
+Regression Algorithm Selection:
+
+Choose an appropriate regression algorithm (e.g., Linear Regression, Random Forest Regression) based on the dataset characteristics.
+Model Training:
+
+Train the selected regression model on the dataset.
+Evaluation:
+
+Use appropriate regression evaluation metrics (e.g., Mean Absolute Error, Root Mean Squared Error) to assess the model's performance.
+Task 4: Classification Task (2 - 3 hours)
+4. Instruct students to perform the following tasks for the classification part:
+
+Data Preprocessing:
+
+Handle missing values, scale features if necessary, and encode categorical variables.
+Classification Algorithm Selection:
+
+Choose an appropriate classification algorithm (e.g., Logistic Regression, Decision Tree Classifier, Support Vector Machine) based on the dataset characteristics.
+Model Training:
+
+Train the selected classification model on the dataset.
+Evaluation:
+
+Use appropriate classification evaluation metrics (e.g., Accuracy, Precision, Recall) to assess the model's performance.
+Task 5: Documentation and Comparison (1 - 2 hours)
+5. Instruct students to document their work, including data preprocessing, algorithm selection, model training, and evaluation, for both regression and classification tasks. Additionally, have them compare and contrast the challenges and insights gained from each task.
+
+Task 6: Submission (30 minutes - 1 hour)
+6. Request students to submit their documentation, including code, model performance metrics, and the comparison between regression and classification tasks.
+
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Completeness and correctness of data preprocessing, model selection, and training for both regression and classification tasks.
+Clarity and organization of documentation.
+Insights gained from the comparison between regression and classification tasks.

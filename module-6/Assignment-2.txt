@@ -1,0 +1,44 @@
+Building a Machine Learning Model with scikit-learn
+
+Assignment Overview:
+In this assignment, students will gain hands-on experience with building and evaluating machine learning models using the scikit-learn library, a popular tool for machine learning in Python. They will be provided with a dataset suitable for classification or regression and tasked with selecting an appropriate algorithm, building a model, and assessing its performance. This assignment aims to strengthen students' practical skills in machine learning and model evaluation.
+
+Assignment Instructions:
+
+Task 1: Introduction and Dataset Overview (1 hour)
+
+Provide students with an overview of the assignment's objectives and structure.
+Introduce scikit-learn as a powerful machine learning library in Python.
+Present the dataset for this assignment, including a description of its features and the prediction task (classification or regression).
+Task 2: Data Preprocessing (2 hours)
+4. Instruct students to load the dataset using scikit-learn and perform necessary data preprocessing tasks, including:
+
+Handling missing values.
+Encoding categorical features (if applicable).
+Splitting the dataset into training and testing sets.
+Scaling or normalizing features (if needed).
+Students should document their data preprocessing steps and explain why each step is necessary.
+Task 3: Model Selection and Building (4 hours)
+6. Task students with choosing an appropriate machine learning algorithm from scikit-learn for the given dataset and prediction task (classification or regression). They should consider factors like data type, problem complexity, and the nature of the prediction.
+
+Instruct students to build the machine learning model using the selected algorithm and the training dataset. They should set hyperparameters and document their choices.
+Encourage students to provide code comments to explain the model-building process.
+Task 4: Model Evaluation (4 hours)
+9. Ask students to evaluate the performance of their machine learning model using appropriate evaluation metrics. For classification tasks, metrics like accuracy, precision, recall, and F1-score may be relevant. For regression tasks, metrics like mean squared error (MSE) or R-squared may be suitable.
+
+Students should generate predictions on the test dataset and calculate the chosen evaluation metrics. They should interpret the results and discuss the model's performance in their documentation.
+Task 5: Documentation and Interpretation (2 hours)
+11. Task students with documenting their entire workflow, including data preprocessing, model selection, hyperparameter choices, and evaluation.
+
+Encourage students to provide interpretations of their findings. They should discuss the strengths and limitations of their chosen model and suggest potential improvements.
+Task 6: Submission (15 minutes)
+13. Set a submission deadline for the assignment. Students should submit their documented code and analysis by the specified deadline.
+
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Completeness and correctness of data preprocessing.
+Appropriateness of the chosen machine learning algorithm.
+Quality of model building and parameter tuning.
+Accuracy and clarity of model evaluation and interpretation.
+Overall organization and documentation of the workflow.

@@ -1,0 +1,41 @@
+Community Engagement in AI Development
+
+Assignment Overview:
+This assignment aims to foster active engagement within AI developer communities and forums, promoting knowledge sharing and collaborative learning. Students will be tasked with participating in an AI-related community or forum of their choice, contributing to discussions, answering questions, and reflecting on their experiences.
+
+Assignment Instructions:
+
+Task 1: Choose an AI Community (1-2 hours)
+
+Instruct students to select an AI developer community or forum where they can actively participate. They can choose from platforms like GitHub, Stack Overflow, or AI-related subreddits.
+Provide guidance on how to find and join the selected community if needed.
+Task 2: Active Participation (4-5 hours)
+3. Ask students to engage actively within the chosen AI community for a specified duration (e.g., two weeks).
+
+Encourage them to contribute to discussions by:
+Answering questions from other community members.
+Sharing insights, articles, or resources related to AI topics.
+Posting thoughtful comments on existing threads.
+Asking their own questions or seeking advice.
+Task 3: Documentation (2-3 hours)
+5. Request students to keep a log or journal documenting their contributions and interactions during their engagement with the community.
+
+Instruct them to note the topics they engaged with, the number of posts or comments made, and any notable interactions or feedback received.
+Task 4: Reflective Report (3-4 hours)
+7. Ask students to write a reflective report summarizing their experiences and the value gained from engaging with the AI community.
+
+In their reports, students should:
+Describe their contributions and interactions in detail.
+Reflect on the knowledge and insights they acquired from community engagement.
+Discuss any challenges faced and how they overcame them.
+Highlight the importance of community involvement in AI development.
+Task 5: Presentation (Optional, 2-3 hours)
+9. Give students the option to present their experiences and reflections in a class presentation, sharing their insights with peers.
+
+Grading Criteria:
+Evaluation will be based on the following criteria:
+
+The extent and quality of active participation within the chosen AI community.
+The depth and clarity of the reflective report.
+The insights gained and lessons learned from community engagement.
+The optional presentation quality (if chosen to present).

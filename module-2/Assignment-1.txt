@@ -1,0 +1,47 @@
+Supervised vs. Unsupervised Learning
+
+Assignment Overview:
+In this assignment, students will delve into the fundamental concepts of machine learning, specifically focusing on supervised, unsupervised, and reinforcement learning. They will define and explain the key differences between these paradigms, provide real-world examples for each, and discuss the significance of labeled data in supervised learning and the challenges associated with unsupervised learning.
+
+Assignment Instructions:
+
+Task 1: Introduction to Machine Learning Paradigms (15 minutes)
+
+Provide an introduction to the assignment, explaining the significance of understanding different machine learning paradigms and their real-world applications.
+Task 2: Supervised, Unsupervised, and Reinforcement Learning (2 hours)
+2. Instruct students to define and explain the key concepts of supervised, unsupervised, and reinforcement learning. They should cover the following aspects for each paradigm:
+
+Supervised Learning:
+
+Definition and core principles
+Real-world examples of supervised learning applications
+The importance of labeled data in supervised learning
+Unsupervised Learning:
+
+Definition and core principles
+Real-world examples of unsupervised learning applications
+Challenges associated with unsupervised learning
+Reinforcement Learning:
+
+Definition and core principles
+Real-world examples of reinforcement learning applications
+How reinforcement learning differs from supervised and unsupervised learning
+Task 3: Real-World Examples (2 - 3 hours)
+3. Instruct students to research and provide real-world examples of applications for each of the machine learning paradigms (supervised, unsupervised, and reinforcement learning). They should select diverse examples that highlight the versatility of these paradigms.
+
+Task 4: Discussion on Labeled Data and Challenges (1 - 2 hours)
+4. Ask students to discuss the significance of labeled data in supervised learning and its role in model training. Additionally, they should address the challenges associated with unsupervised learning, such as the absence of labels and difficulties in evaluating model performance.
+
+Task 5: Reflection (30 minutes)
+5. Conclude the assignment by having students reflect on the importance of understanding these machine learning paradigms in the context of AI and data science. They should consider how each paradigm can be applied to solve real-world problems.
+
+Task 6: Submission (30 minutes - 1 hour)
+6. Request students to submit their written assignment, which should include explanations, real-world examples, and reflections.
+
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Clarity and completeness of explanations for supervised, unsupervised, and reinforcement learning
+Appropriateness and diversity of real-world examples provided
+Thoughtful discussion on the significance of labeled data and challenges in unsupervised learning
+Reflection on the importance of understanding these machine learning paradigms

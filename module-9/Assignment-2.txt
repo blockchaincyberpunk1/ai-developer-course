@@ -1,0 +1,43 @@
+Open-Source Contribution in AI Development
+
+Assignment Overview:
+This assignment aims to provide students with hands-on experience in open-source AI development. Students will be tasked with finding an open-source AI project, contributing to it by addressing issues or adding valuable features, and sharing their experiences and learnings.
+
+Assignment Instructions:
+
+Task 1: Find an Open-Source AI Project (1-2 hours)
+
+Instruct students to search for an open-source AI project on platforms like GitHub, GitLab, or Bitbucket. The project should align with their interests and skill level.
+Provide guidance on how to find and evaluate open-source projects, including factors like project activity, documentation quality, and issue tracking.
+Task 2: Select a Contribution Task (2-3 hours)
+3. Ask students to choose a specific task within the selected open-source AI project. Tasks can include:
+
+Fixing a bug or issue.
+Adding documentation or improving existing documentation.
+Implementing a new feature or enhancement.
+Ensure that the chosen task is appropriate for their skill level and aligns with their interests.
+Task 3: Contribution and Documentation (4-5 hours)
+5. Task students with actively contributing to the open-source project by:
+
+Addressing the chosen issue or task.
+Writing code or documentation following the project's guidelines.
+Collaborating with the project maintainers and community.
+Require students to document their contributions thoroughly, including code changes, discussions with project members, and any challenges faced.
+Task 4: Submission and Reflection (2-3 hours)
+7. Instruct students to submit their contributions to the open-source project, following the project's contribution guidelines (e.g., pull request submission on GitHub).
+
+Ask them to write a reflective report on their experiences, detailing:
+The nature of their contributions and the problem they solved.
+Interactions and collaboration with project maintainers and contributors.
+Challenges encountered during the contribution process and how they were overcome.
+Key learnings and insights gained from the open-source contribution.
+Task 5: Presentation (Optional, 2-3 hours)
+9. Give students the option to present their experiences and contributions in a class presentation, sharing their insights with peers.
+
+Grading Criteria:
+Evaluation will be based on the following criteria:
+
+The quality and impact of the contribution to the open-source AI project.
+The completeness and clarity of documentation.
+The depth and reflection in the reflective report.
+The optional presentation quality (if chosen to present).

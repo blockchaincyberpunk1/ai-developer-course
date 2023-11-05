@@ -1,0 +1,39 @@
+Data Privacy and Regulations
+
+Assignment Overview:
+In this assignment, students will explore data privacy regulations, including GDPR and CCPA, and their implications for AI projects. They will analyze a fictional AI project, identify potential data privacy concerns, and propose a comprehensive plan to ensure compliance with relevant data privacy regulations and protect user data.
+
+Assignment Instructions:
+
+Task 1: Introduction to Data Privacy Regulations (1-2 hours)
+
+Provide an overview of data privacy regulations such as GDPR (General Data Protection Regulation) and CCPA (California Consumer Privacy Act).
+Explain the key principles and requirements of these regulations, emphasizing their importance in safeguarding user data.
+Task 2: AI Project Analysis (2-3 hours)
+3. Present a fictional AI project scenario to the students. Describe the nature of the project, its objectives, and the types of data it collects, processes, or stores.
+
+Instruct students to analyze the project and identify potential data privacy concerns or risks. These concerns may relate to data collection, processing, storage, or user consent.
+Task 3: Compliance Plan Proposal (3-4 hours)
+5. Assign students the task of proposing a data privacy compliance plan for the fictional AI project.
+
+In their plan, students should address:
+Data collection and consent mechanisms.
+Data storage and security measures.
+Data processing and user rights (e.g., right to access, right to be forgotten).
+Data breach response and notification procedures.
+Appointing a Data Protection Officer (DPO) if necessary.
+Task 4: Documentation and Justification (2-3 hours)
+7. Encourage students to document their compliance plan, providing detailed explanations for each aspect of the plan.
+
+Ask them to justify their choices by referencing specific clauses or requirements from GDPR, CCPA, or other relevant regulations.
+Task 5: Presentation or Report (2-3 hours)
+9. Require students to create a presentation or write a report summarizing their compliance plan, data privacy concerns identified in the AI project, and the justifications for their proposed measures.
+
+Encourage them to include any visual aids, diagrams, or flowcharts to clarify their plan.
+Grading Criteria:
+The assignment will be assessed based on the following criteria:
+
+The depth of analysis regarding data privacy concerns in the AI project.
+The comprehensiveness and feasibility of the compliance plan.
+The clarity and justifiability of choices based on regulations.
+The quality of the presentation or report, including visual aids and documentation.

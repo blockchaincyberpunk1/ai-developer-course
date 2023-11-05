@@ -1,0 +1,46 @@
+Handling Missing Data in Pandas
+
+Assignment Overview:
+In this assignment, students will practice their skills in handling missing data using the Pandas library in Python. They will work with a dataset that contains missing values and explore various techniques for addressing this issue. Students will document their approach and assess the impact of different methods on the analysis and visualizations of the dataset.
+
+Assignment Instructions:
+
+Task 1: Dataset Introduction (15 minutes)
+
+Provide students with a dataset in a common data format (e.g., CSV, Excel) that contains missing values. Ensure the dataset has a variety of variables and data types.
+Describe the dataset briefly, including the number of missing values and the columns affected.
+Task 2: Data Exploration (1.5 hours)
+3. Instruct students to perform initial data exploration, which includes:
+
+Loading the dataset into a Pandas DataFrame.
+Displaying basic summary statistics (mean, median, standard deviation, etc.) for numeric variables.
+Identifying the presence and locations of missing values.
+Task 3: Handling Missing Data (2.5 hours)
+4. Assign students the task of handling missing data in the dataset. They should explore and apply various techniques, including but not limited to:
+
+Imputation: Filling missing values with appropriate values (e.g., mean, median, mode, or using more advanced imputation methods).
+Dropping: Removing rows or columns with missing values.
+Interpolation: Using interpolation techniques to estimate missing values.
+Categorical Handling: Dealing with missing values in categorical variables.
+Students should document their approach, explaining why they chose specific methods and how they implemented them in Pandas.
+Task 4: Data Analysis and Visualization (2 hours)
+6. Ask students to conduct data analysis and visualization after handling missing data. They should:
+
+Generate visualizations to compare the distribution of variables before and after missing data handling.
+Perform statistical analysis and visualization to assess the impact of missing data handling on key metrics or relationships in the dataset.
+Task 5: Comparative Analysis (1.5 hours)
+7. Require students to compare the results of their analysis before and after handling missing data. They should discuss the impact of different methods on their findings and insights.
+
+Task 6: Interpretation and Report (1 hour)
+8. Students should compile their findings and insights into a concise report. They should discuss the effectiveness of different techniques for handling missing data and provide recommendations based on their analysis.
+
+Task 7: Submission (15 minutes)
+9. Set a submission deadline for the assignment. Students should submit their reports or presentation files by the specified deadline.
+
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Correct handling of missing data, including documentation of methods used.
+Quality of data analysis and visualization.
+Depth of comparative analysis and insights provided.
+Clarity and organization of the report or presentation.

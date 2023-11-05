@@ -1,0 +1,53 @@
+Building a Simple Neural Network from Scratch
+
+Assignment Overview:
+In this assignment, students will gain hands-on experience in creating a basic neural network using a deep learning library like TensorFlow or PyTorch. They will design the network, define its architecture, and train it on a dataset for either a classification or regression task. Students will report the model's performance and discuss any challenges they encountered during the process.
+
+Assignment Instructions:
+
+Task 1: Introduction to Neural Network Creation (15 minutes)
+
+Provide an introduction to the assignment, emphasizing the practical aspect of building a neural network from scratch.
+Task 2: Network Design and Architecture (3 - 4 hours)
+2. Instruct students to perform the following steps:
+
+Problem Selection:
+
+Choose a classification or regression task and acquire a suitable dataset. You can provide a sample dataset or allow students to find one.
+Network Design:
+
+Design a neural network architecture that consists of an appropriate number of layers, neurons, and activation functions.
+Specify the input and output dimensions based on the chosen task.
+Model Implementation:
+
+Use TensorFlow or PyTorch to implement the designed neural network architecture.
+Task 3: Dataset Preparation and Training (4 - 5 hours)
+3. Students should proceed with the following tasks:
+
+Data Preprocessing:
+
+Prepare the dataset by performing necessary data preprocessing tasks such as normalization, feature scaling, or one-hot encoding.
+Model Training:
+
+Train the neural network on the preprocessed dataset using appropriate loss functions and optimizers.
+Determine the number of epochs and batch size for training.
+Performance Evaluation:
+
+Evaluate the model's performance using relevant metrics (e.g., accuracy, mean squared error).
+Report the results and discuss the model's performance.
+Task 4: Challenges and Reflection (2 - 3 hours)
+4. Ask students to reflect on their experience and discuss any challenges they encountered during the neural network creation process. They should provide insights into what worked well and what could be improved.
+
+Task 5: Documentation and Presentation (1 - 2 hours)
+5. Request students to document their network design, code, training results, and challenges faced in a well-structured report.
+
+Task 6: Submission (30 minutes - 1 hour)
+6. Ask students to submit their documentation, whether it's a written report or presentation slides, by the assigned deadline.
+
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Quality of network design and architecture.
+Accuracy and completeness of code implementation.
+Thoroughness of performance evaluation and discussion.
+Insightful reflection on challenges and solutions.

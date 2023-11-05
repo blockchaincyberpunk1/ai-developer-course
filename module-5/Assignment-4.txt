@@ -1,0 +1,39 @@
+Advanced Data Visualization
+
+Assignment Overview:
+In this assignment, students will have the opportunity to work with a dataset of their choice and demonstrate their skills in advanced data visualization using libraries such as Seaborn and Plotly. They will be tasked with conducting an in-depth analysis of the dataset and creating compelling visualizations to convey meaningful insights. Students will also provide explanations and interpretations for each visualization.
+
+Assignment Instructions:
+
+Task 1: Dataset Selection (15 minutes)
+
+Instruct students to choose a dataset of their own interest. They can select a dataset from a public data source, ensuring it contains enough variables and data points for meaningful analysis.
+Encourage students to provide a brief description of their chosen dataset, including its source and the key variables it contains.
+Task 2: Data Exploration (1.5 hours)
+3. Ask students to load the chosen dataset into a Pandas DataFrame and perform initial data exploration, which includes:
+
+Displaying basic summary statistics for numeric variables.
+Identifying data types, including categorical and numerical features.
+Detecting and addressing any missing values.
+Task 3: Advanced Data Visualization (3 hours)
+4. Challenge students to create advanced visualizations using libraries like Seaborn and Plotly. They should consider various types of plots and charts (e.g., scatter plots, bar charts, heatmaps, line charts) that are relevant to their dataset and research questions.
+
+Students should aim to answer specific research questions or convey insights using their visualizations. Each visualization should be accompanied by a clear title and axis labels.
+Task 4: Interpretation and Insights (1.5 hours)
+6. Instruct students to provide detailed explanations and interpretations for each visualization. They should discuss what insights or patterns can be gleaned from the visualizations and how these insights relate to their chosen dataset and research questions.
+
+Encourage critical thinking and discussion of any unexpected findings or outliers in the data.
+Task 5: Report or Presentation (1.5 hours)
+8. Require students to compile their findings, visualizations, and interpretations into a report or presentation. The report should be well-structured, including an introduction, data exploration, visualizations, insights, and a conclusion.
+
+Specify the format for submission, whether it's a written report, a PowerPoint presentation, or another appropriate format.
+Task 6: Submission (15 minutes)
+10. Set a submission deadline for the assignment. Students should submit their reports or presentation files by the specified deadline.
+
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Selection of an interesting and relevant dataset.
+Quality and complexity of advanced visualizations.
+Clarity and depth of explanations and interpretations.
+Overall structure and presentation of the report or presentation.

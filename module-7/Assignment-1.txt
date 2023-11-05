@@ -1,0 +1,44 @@
+Reinforcement Learning Fundamentals
+
+Assignment Overview:
+In this assignment, students will dive into the fundamentals of reinforcement learning (RL). They will research and provide a comprehensive explanation of key RL concepts, including Markov decision processes (MDPs) and Q-learning. To enhance their understanding, students will create flowcharts or diagrams illustrating the key components of an RL problem. Additionally, they should explore and provide examples of real-world applications where reinforcement learning can be effectively applied.
+
+Assignment Instructions:
+
+Task 1: Introduction to Reinforcement Learning (1 hour)
+
+Provide students with an introductory overview of reinforcement learning, emphasizing its role in training agents to make sequential decisions.
+Explain the distinction between supervised learning, unsupervised learning, and reinforcement learning.
+Task 2: Markov Decision Processes (MDPs) (2 hours)
+3. Instruct students to research and provide a detailed explanation of Markov decision processes (MDPs).
+
+Emphasize the essential components of an MDP, including states, actions, rewards, transition probabilities, and the Markov property.
+Encourage students to use diagrams or flowcharts to visualize the structure of an MDP.
+Task 3: Q-Learning (2 hours)
+6. Explain the concept of Q-learning as a fundamental reinforcement learning algorithm.
+
+Describe how Q-learning is used to estimate the value of taking specific actions in an MDP.
+Provide a step-by-step explanation of the Q-learning algorithm.
+Encourage students to include pseudocode or simple code snippets to illustrate the Q-learning process.
+Task 4: Flowcharts or Diagrams (3-4 hours)
+10. Task students with creating flowcharts or diagrams that illustrate the key components of an RL problem. These diagrams should encompass states, actions, rewards, transitions, and the agent's decision-making process.
+
+Ensure that the flowcharts or diagrams are clear and visually represent the flow of an RL problem.
+Task 5: Real-World Applications (2 hours)
+12. Ask students to research and identify real-world applications where reinforcement learning has been successfully applied. Examples may include robotics, game playing, autonomous vehicles, and recommendation systems.
+
+Encourage them to provide brief explanations of how RL is used in these applications and its impact.
+Task 6: Presentation (15-20 minutes)
+14. Instruct students to prepare a brief presentation summarizing their findings on RL fundamentals, MDPs, Q-learning, and real-world applications.
+
+Allow time for questions and discussions following the presentations.
+Task 7: Submission (15 minutes)
+16. Set a submission deadline for the assignment. Students should submit their reports, diagrams, and presentation slides by the specified deadline.
+
+Grading Criteria:
+The assignment will be evaluated based on the following criteria:
+
+Clarity and depth of explanations for RL concepts, MDPs, and Q-learning.
+Quality and relevance of flowcharts or diagrams.
+Identification and explanation of real-world RL applications.
+Quality of the presentation and ability to effectively communicate the concepts.

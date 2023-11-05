@@ -1,0 +1,43 @@
+Continuous Learning Plan in AI
+
+Assignment Overview:
+This assignment aims to instill the importance of lifelong learning in the rapidly evolving field of AI. Students will create a personalized plan for continuous learning, setting goals and identifying resources to enhance their AI knowledge and skills.
+
+Assignment Instructions:
+
+Task 1: Self-Assessment (1-2 hours)
+
+Begin by having students perform a self-assessment of their current AI knowledge and skills. Ask them to reflect on what they've learned in the course so far and identify areas where they would like to deepen their understanding.
+Task 2: Learning Goals and Objectives (1-2 hours)
+2. Instruct students to set specific, measurable, and achievable learning goals related to AI. These goals should align with the areas they identified in the self-assessment.
+
+Ask students to break down each goal into smaller, manageable objectives or milestones. These objectives should serve as markers of progress towards the larger learning goals.
+Task 3: Resource Identification (2-3 hours)
+4. Have students research and identify the resources they will use to achieve their learning goals. These resources may include:
+
+Online courses or tutorials (e.g., Coursera, edX, Udacity).
+Books, research papers, or textbooks.
+AI-focused websites, blogs, or newsletters.
+Coding exercises or projects.
+Students should provide a brief description of each resource and explain how it will help them reach their learning objectives.
+Task 4: Reflection and Commitment (1-2 hours)
+6. Ask students to reflect on the importance of continuous learning in the field of AI. What motivates them to continue learning in this domain?
+
+Have students create a commitment statement outlining their dedication to following their learning plan and continuously improving their AI skills.
+Task 5: Presentation or Submission (Optional, 2-3 hours)
+8. Depending on the class size and format, students can present their learning plans to the class, sharing their goals, objectives, and selected resources. Alternatively, they can submit their plans in written form.
+
+Grading Criteria:
+Evaluation will be based on the following criteria:
+
+Clarity and specificity of learning goals and objectives.
+Appropriateness of selected resources for achieving the goals.
+Thoughtful reflection on the importance of continuous learning.
+Quality of the commitment statement.Assignment 2: Selecting the Right Blockchain (Decision-Making Exercise)
+
+Objective: Help students understand how to choose the appropriate blockchain architecture for a given use case.
+
+Provide students with a list of hypothetical use cases (e.g., supply chain, healthcare records, gaming) and their requirements.
+Instruct them to decide which blockchain architecture (public, private, permissioned, permissionless) would be most suitable for each use case.
+Ask students to provide justifications for their choices.
+Evaluate their decisions based on reasoning and alignment with use case requirements.

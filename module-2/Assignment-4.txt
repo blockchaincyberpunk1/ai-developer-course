@@ -1,0 +1,49 @@
+Feature Engineering
+
+Assignment Overview:
+In this assignment, students will dive into the world of feature engineering—a critical aspect of machine learning. They will work with a provided dataset or one they find and identify potential features that could be engineered to enhance model performance. Students will write code to create new features or transform existing ones, and then train machine learning models with and without these engineered features to compare their impact on model accuracy.
+
+Assignment Instructions:
+
+Task 1: Introduction to Feature Engineering (15 minutes)
+
+Provide an introduction to the assignment, explaining the significance of feature engineering in improving model accuracy and the creative aspects of generating relevant features.
+Task 2: Dataset Selection (15 minutes)
+2. Provide students with a dataset for the assignment that requires feature engineering. Ensure that the dataset contains features with potential for enhancement through engineering.
+
+Task 3: Feature Identification and Engineering (3 - 4 hours)
+3. Instruct students to perform the following tasks:
+
+Data Exploration:
+
+Have students explore the dataset to understand its structure, features, and target variable.
+Feature Identification:
+
+Ask students to identify potential features that could be engineered or transformed to improve model accuracy. They should provide a rationale for each proposed feature.
+Feature Engineering:
+
+Students should write code to create new features or transform existing ones based on their identifications. Document the code and explanations for each engineered feature.
+Task 4: Model Training and Comparison (3 - 4 hours)
+4. Instruct students to perform the following tasks:
+
+Model Selection:
+
+Choose an appropriate machine learning model for the problem (e.g., Regression, Classification).
+Model Training:
+
+Train the selected model using the dataset both with and without the engineered features.
+Evaluation:
+
+Use appropriate evaluation metrics (e.g., Mean Absolute Error, Accuracy) to assess model performance for both cases (with and without engineered features).
+Task 5: Documentation and Analysis (1 - 2 hours)
+5. Instruct students to document their feature engineering process, code, and model performance for both scenarios (with and without engineered features). Additionally, have them analyze and discuss the impact of feature engineering on model accuracy and provide insights.
+
+Task 6: Submission (30 minutes - 1 hour)
+6. Request students to submit their documentation, including code, model performance metrics, and insights from the feature engineering and model comparison.
+
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Identification and creativity of feature engineering ideas.
+Correct implementation of feature engineering code.
+Clear documentation and analysis of the impact of feature engineering on model accuracy.

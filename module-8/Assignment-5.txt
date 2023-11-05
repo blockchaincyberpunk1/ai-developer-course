@@ -1,0 +1,38 @@
+Securing AI Systems
+
+Assignment Overview:
+In this assignment, students will delve into the critical aspect of securing AI systems against cyber threats and attacks. They will be presented with a scenario where an AI system is vulnerable to security breaches and will be tasked with outlining a comprehensive security strategy to protect the system and safeguard sensitive data.
+
+Assignment Instructions:
+
+Task 1: Introduction to AI Security (1-2 hours)
+
+Provide an overview of the importance of AI security and its relevance in today's technology landscape.
+Explain common cyber threats and attacks that AI systems may face, such as adversarial attacks and data poisoning.
+Task 2: Scenario Analysis (2-3 hours)
+3. Present a scenario to the students involving an AI system that is vulnerable to security breaches. Describe the system, its purpose, and the potential consequences of a security breach.
+
+Ask students to analyze the scenario and identify specific security vulnerabilities, potential attack vectors, and the impact of a breach.
+Task 3: Security Strategy Proposal (3-4 hours)
+5. Assign students the task of proposing a security strategy to protect the vulnerable AI system.
+
+In their strategy, students should include:
+Measures to secure the AI model (e.g., model encryption, robustness against adversarial attacks).
+Data security measures (e.g., encryption, access controls).
+Network and infrastructure security (e.g., firewalls, intrusion detection systems).
+Incident response and recovery procedures.
+Task 4: Documentation and Justification (2-3 hours)
+7. Encourage students to document their security strategy, providing detailed explanations for each security measure proposed.
+
+Ask them to justify their choices by referencing real-world examples of AI security breaches and best practices.
+Task 5: Presentation or Report (2-3 hours)
+9. Require students to create a presentation or write a report summarizing their security strategy, vulnerabilities identified in the AI system, and the justifications for their proposed security measures.
+
+Encourage them to include any visual aids, diagrams, or flowcharts to clarify their plan.
+Grading Criteria:
+The assignment will be assessed based on the following criteria:
+
+The depth of analysis regarding security vulnerabilities in the AI system.
+The comprehensiveness and feasibility of the security strategy.
+The clarity and justifiability of choices based on real-world examples and best practices.
+The quality of the presentation or report, including visual aids and documentation.

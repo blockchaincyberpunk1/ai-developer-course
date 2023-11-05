@@ -1,0 +1,47 @@
+Exploratory Data Analysis (EDA) on a New Dataset
+
+Assignment Overview:
+In this assignment, students will practice their data exploration and visualization skills on a new and unfamiliar dataset. They will be required to conduct a thorough EDA, generate summary statistics, create meaningful visualizations, and identify patterns or outliers in the data.
+
+Assignment Instructions:
+
+Task 1: Dataset Introduction (15 minutes)
+
+Provide students with a new dataset in a common data format (e.g., CSV, Excel) without revealing its content or context. Ensure the dataset has a variety of variables and data types.
+Do not provide any data dictionary or prior information about the dataset. Students should approach it with no preconceived notions.
+Task 2: Data Exploration (1.5 hours)
+3. Instruct students to perform exploratory data analysis (EDA) on the provided dataset. This should include:
+
+Loading the dataset into a Pandas DataFrame.
+Displaying basic summary statistics (mean, median, standard deviation, etc.) for numeric variables.
+Identifying and handling missing values, if any.
+Exploring the data types and the first few rows of the dataset.
+Checking for duplicate records and removing them if necessary.
+Task 3: Data Visualization (2 hours)
+4. Assign students the task of creating meaningful visualizations using Matplotlib, Seaborn, or any other visualization library of their choice. Encourage them to visualize relationships between variables, distributions, and potential outliers. Possible visualizations include:
+
+Scatter plots
+Box plots
+Histograms
+Bar charts
+Heatmaps
+Task 4: Patterns and Outliers (1.5 hours)
+5. Ask students to analyze the visualizations and identify any patterns, trends, or anomalies in the data. Specifically, they should:
+
+Highlight any interesting findings from the summary statistics.
+Describe any relationships between variables they observe in the visualizations.
+Identify and discuss potential outliers or unusual data points.
+Task 5: Interpretation and Report (1 hour)
+6. Require students to compile their findings and insights into a concise report. They should discuss what they've learned from the EDA, any challenges encountered, and any hypotheses or questions raised by their analysis.
+
+Task 6: Submission (15 minutes)
+7. Set a submission deadline for the assignment. Students should submit their reports or presentation files by the specified deadline.
+
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Correct loading and exploration of the dataset.
+Effective use of data visualization techniques.
+Clear identification and discussion of patterns and outliers.
+Depth and quality of insights provided in the interpretation and analysis.
+Presentation or report quality, including organization and visual appeal.

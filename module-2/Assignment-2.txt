@@ -1,0 +1,44 @@
+Data Preprocessing
+
+Assignment Overview:
+In this assignment, students will practice essential data preprocessing tasks on a given dataset or one they find. They will perform tasks such as handling missing values, scaling features, and encoding categorical variables. Students should thoroughly document their data preprocessing steps and explain the significance of each step in ensuring data quality and model performance.
+
+Assignment Instructions:
+
+Task 1: Introduction to Data Preprocessing (15 minutes)
+
+Provide an introduction to the assignment, explaining the importance of data preprocessing in the machine learning pipeline and its role in improving model accuracy and reliability.
+Task 2: Dataset Selection (15 minutes)
+2. Provide students with a dataset for the assignment. Alternatively, allow them to choose a dataset of their own, ensuring it has a mix of numerical and categorical features.
+
+Task 3: Data Preprocessing Steps (3 - 4 hours)
+3. Instruct students to perform the following data preprocessing tasks on the selected dataset:
+
+Handling Missing Values:
+
+Identify and document missing values in the dataset.
+Choose an appropriate strategy for handling missing values (e.g., removal, imputation) and explain why this strategy was chosen.
+Scaling Features:
+
+Identify numerical features that require scaling (e.g., using techniques like Min-Max scaling or Z-score normalization).
+Perform the chosen scaling method and explain why scaling is necessary.
+Encoding Categorical Variables:
+
+Identify categorical variables in the dataset.
+Choose an appropriate encoding method (e.g., one-hot encoding or label encoding) and apply it to the categorical variables. Explain the choice of encoding method.
+Task 4: Documentation and Explanation (1 - 2 hours)
+4. Instruct students to document their data preprocessing steps in a clear and organized manner. Each step should include:
+
+The name of the preprocessing task (e.g., Handling Missing Values).
+A description of the task performed.
+The code used for the task (if applicable).
+An explanation of why the task is necessary for data quality and model performance improvement.
+Task 5: Submission (30 minutes - 1 hour)
+5. Request students to submit their documentation and explanations of the data preprocessing steps performed on the dataset.
+
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Completeness and correctness of data preprocessing tasks performed.
+Clarity and organization of the documentation.
+Clear and insightful explanations of why each preprocessing step is necessary.

@@ -1,0 +1,49 @@
+Activation Functions in Neural Networks
+
+Assignment Overview:
+In this assignment, students will explore the essential role of activation functions in neural networks. They will learn about popular activation functions such as ReLU, Sigmoid, and Tanh. Students will write Python code to implement and visualize these activation functions and discuss the advantages and disadvantages of each.
+
+Assignment Instructions:
+
+Task 1: Introduction to Activation Functions (15 minutes)
+
+Provide an introduction to the assignment, highlighting the significance of activation functions in neural networks and their impact on model learning.
+Task 2: Role of Activation Functions (2 - 3 hours)
+2. Instruct students to research and explain the following aspects of activation functions:
+
+Activation Function Definition:
+
+Define what an activation function is and why it's crucial in neural networks.
+Popular Activation Functions:
+
+Describe the characteristics and mathematical representations of popular activation functions, including ReLU, Sigmoid, and Tanh.
+Explain when to use each activation function based on the type of problem.
+Task 3: Python Implementation and Visualization (3 - 4 hours)
+3. Ask students to implement and visualize the selected activation functions using Python. They should perform the following tasks:
+
+Code Implementation:
+
+Write Python code to implement ReLU, Sigmoid, and Tanh activation functions.
+Function Visualization:
+
+Create visualizations (e.g., plots or graphs) that show how these functions transform input data into output values.
+Code Comments:
+
+Encourage students to add comments to their code to explain each step and how the activation functions work.
+Task 4: Advantages and Disadvantages (2 - 3 hours)
+4. Instruct students to discuss the advantages and disadvantages of each activation function they implemented:
+
+Explore scenarios where one activation function may outperform the others.
+Discuss potential issues like vanishing gradients or dead neurons associated with certain activation functions.
+Task 5: Documentation and Presentation (1 - 2 hours)
+5. Request students to document their code, visualizations, and the advantages/disadvantages discussion in a well-structured report or presentation.
+
+Task 6: Submission (30 minutes - 1 hour)
+6. Ask students to submit their documentation, whether it's a written report or presentation slides, by the assigned deadline.
+
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Accuracy and depth of the explanation of activation functions.
+Quality of Python code implementation and visualization.
+Thoroughness of the advantages and disadvantages discussion.

@@ -1,0 +1,41 @@
+Robot Navigation with RL
+
+Assignment Overview:
+In this assignment, students will apply reinforcement learning (RL) techniques to a simulated robot navigation task. They will be tasked with training a virtual robot to navigate from a starting point to a goal while avoiding obstacles in a 2D or 3D environment. The assignment will require students to implement RL algorithms (e.g., Q-learning, Deep Q-Networks), document their approach, and report their results, including any challenges faced during training.
+
+Assignment Instructions:
+
+Task 1: Environment Setup (1-2 hours)
+
+Provide students with access to a simulated robot navigation environment (you can use existing RL environments or tools like OpenAI Gym, Unity ML-Agents, or custom-made simulators).
+Ensure the environment includes a 2D or 3D grid, a robot agent, a goal location, and obstacles that the robot must avoid.
+Task 2: RL Algorithm Selection (1-2 hours)
+3. Instruct students to choose an RL algorithm suitable for solving the robot navigation task. They can select from algorithms such as Q-learning, Deep Q-Networks (DQN), or variants of these algorithms.
+
+Ask them to justify their choice of algorithm based on the task's complexity and requirements.
+Task 3: Implementation (4-6 hours)
+5. Task students with implementing the selected RL algorithm to train the robot.
+
+They should write code to define the robot's state and action spaces, create the Q-table or neural network model, and implement the learning algorithm.
+Instruct them to document their code and include comments explaining key components.
+Task 4: Training and Optimization (4-6 hours)
+8. Have students run multiple training episodes to train the robot in the environment.
+
+Encourage them to fine-tune hyperparameters, such as learning rates and exploration strategies, to optimize training performance.
+Instruct students to track training progress, including changes in the Q-values (if applicable) and the robot's navigation behavior.
+Task 5: Results and Challenges (2-3 hours)
+11. Ask students to report the results of their RL training, including the success rate of navigation, time taken to reach the goal, and any observed issues or challenges.
+
+Have them document any modifications or adjustments made during training to improve performance.
+Task 6: Conclusion and Reflection (1-2 hours)
+13. Instruct students to write a conclusion that summarizes their findings and reflects on the effectiveness of RL in solving the robot navigation task.
+
+Encourage them to discuss potential real-world applications of RL-based robot navigation.
+Grading Criteria:
+The assignment will be evaluated based on the following criteria:
+
+Correct implementation of the selected RL algorithm.
+Quality of code documentation and comments.
+Successful training of the robot in the simulated environment.
+Reporting of training results, including challenges and optimizations.
+Thoughtful reflection on the application of RL in robot navigation.

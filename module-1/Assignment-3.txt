@@ -1,0 +1,51 @@
+AI in Industry
+
+Assignment Overview:
+In this assignment, students will select a specific industry (e.g., healthcare, finance, entertainment) and research how artificial intelligence is currently being used within that industry. They will prepare a presentation or report outlining the applications of AI in the chosen industry, highlighting its impact on efficiency, innovation, and potential challenges. The assignment encourages students to explore the practical implications of AI in real-world contexts.
+
+Assignment Instructions:
+
+Task 1: Introduction to AI in Industry (15 minutes)
+
+Provide an introduction to the assignment, explaining the significance of understanding how artificial intelligence is transforming various industries.
+Task 2: Industry Selection (10 minutes)
+2. Ask students to choose a specific industry (e.g., healthcare, finance, entertainment) for their presentation or report.
+
+Task 3: Research and Presentation/Report Preparation (4 - 5 hours)
+3. Assign students the task of researching and preparing a presentation or report on the applications of AI in the selected industry. The presentation or report should include the following components:
+
+Introduction to the Industry (10%):
+
+Provide an overview of the chosen industry, its scope, and importance.
+Applications of AI (40%):
+
+Describe the current applications of artificial intelligence within the selected industry. Include specific examples and case studies.
+Highlight how AI is improving efficiency, driving innovation, and solving industry-specific challenges.
+Impact and Benefits (30%):
+
+Explain the impact of AI on the industry, including its potential to transform operations, create new opportunities, and enhance customer experiences.
+Challenges and Considerations (15%):
+
+Discuss potential challenges, ethical considerations, and limitations associated with the use of AI in the industry.
+Conclusion (5%):
+
+Summarize the key findings and emphasize the role of AI in shaping the industry's future.
+Task 4: Presentation or Report Creation (3 - 4 hours)
+4. Instruct students to create either a presentation with slides (10-15 slides) or a written report (approximately 800-1000 words) based on their research and findings.
+
+Task 5: Submission (30 minutes - 1 hour)
+5. Request students to submit their presentations or reports on the applications of AI in the chosen industry.
+
+Task 6: Peer Review (1 hour)
+6. Organize a peer review session where students exchange their presentations or reports for feedback. Encourage constructive criticism and suggestions for improvement.
+
+Task 7: Revision (30 minutes - 1 hour)
+7. Based on the feedback received during the peer review, ask students to revise and refine their presentations or reports.
+
+Submission Guidelines:
+
+Students should submit their finalized presentations (e.g., PowerPoint) or reports on AI in the chosen industry.
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Clarity and completeness of the presentation or report, including descriptions of AI applications, their impact, and consideration of challenges.

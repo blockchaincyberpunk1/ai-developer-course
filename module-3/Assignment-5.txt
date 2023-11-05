@@ -1,0 +1,42 @@
+Image Classification with CNNs
+
+Assignment Overview:
+In this assignment, students will apply their knowledge of Convolutional Neural Networks (CNNs) to a practical task: image classification. They will build a CNN model to classify a set of images into predefined categories. Through this hands-on experience, students will gain insights into the impact of various CNN architecture choices on model performance.
+
+Assignment Instructions:
+
+Task 1: Introduction (20 minutes)
+
+Provide an introduction to the assignment, explaining that students will be building a CNN model for image classification.
+Task 2: Dataset and Preprocessing (1 hour)
+2. Depending on the resources available, you can either:
+
+Provide a dataset of images for classification.
+Instruct students to find and use a publicly available image dataset, such as CIFAR-10 or MNIST.
+Students should preprocess the dataset, including tasks like resizing, normalizing, and splitting it into training and testing sets.
+
+Task 3: CNN Model Building (2 - 3 hours)
+3. Instruct students to design and build a CNN model using a deep learning framework like TensorFlow or PyTorch. They should consider the following aspects:
+
+Architecture: Encourage them to experiment with the number of convolutional layers, filter sizes, and pooling layers.
+Activation functions: They can choose between ReLU, Sigmoid, or other activation functions.
+Hyperparameters: Students should fine-tune hyperparameters such as learning rate, batch size, and optimizer choice (e.g., SGD, Adam).
+Task 4: Training and Evaluation (2 - 3 hours)
+4. Have students train their CNN models on the training dataset and evaluate their performance on the testing dataset. They should report metrics like accuracy, precision, recall, and F1-score.
+
+Task 5: CNN Architecture Analysis (1 - 2 hours)
+5. Encourage students to reflect on the impact of their CNN architecture choices on model performance. They should discuss how changes in the number of layers, filter sizes, or other architectural elements affected the model's accuracy.
+
+Task 6: Presentation or Report (2 - 3 hours)
+6. Request students to create a presentation or write a report summarizing their approach, architectural choices, training results, and analysis of CNN architecture impact.
+
+Task 7: Submission (30 minutes - 1 hour)
+7. Ask students to submit their presentation slides or written reports by the assigned deadline.
+
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Correct preprocessing of the dataset.
+Effective design and implementation of the CNN model.
+Accuracy of the model on the testing dataset.
+Thoughtful analysis of the impact of CNN architecture choices.

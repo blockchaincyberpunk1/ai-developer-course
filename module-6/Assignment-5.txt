@@ -1,0 +1,45 @@
+Deploying a Web Application with FastAPI
+
+Assignment Overview:
+In this assignment, students will explore FastAPI, a modern Python web framework known for its simplicity and speed. They will be tasked with developing a web application that serves a pre-trained machine learning model using FastAPI. The application should include user-friendly interfaces for model input and output, making it accessible to users who want to interact with the model. Additionally, students should provide comprehensive documentation on how to access and use the application.
+
+Assignment Instructions:
+
+Task 1: Introduction to FastAPI (1 hour)
+
+Provide students with an introduction to FastAPI, highlighting its features, advantages, and its suitability for creating APIs.
+Explain the importance of building user-friendly web applications for deploying machine learning models.
+Task 2: Environment Setup (1 hour)
+3. Instruct students to set up a Python development environment and install FastAPI if they haven't already.
+
+Provide guidance on basic FastAPI concepts, such as creating routes and handling requests.
+Task 3: Web Application Development (4-5 hours)
+5. Describe the task: Students should choose a pre-trained machine learning model (e.g., scikit-learn, TensorFlow, PyTorch) and develop a web application that serves this model.
+
+Instruct students to create user-friendly interfaces for inputting data to the model and displaying model predictions.
+Encourage them to ensure that the application is easy to navigate and that users can readily understand how to use it.
+Emphasize the importance of validating and sanitizing user input.
+Task 4: Documentation (2-3 hours)
+9. Task students with creating comprehensive documentation for their FastAPI-based web application. The documentation should include:
+- Clear instructions on how to access and use the application.
+- Details about the chosen machine learning model and its use case.
+- Information on how the model makes predictions.
+- Any additional configurations or considerations.
+- Screenshots or examples to illustrate the application's usage.
+
+Task 5: Presentation (15-20 minutes)
+10. Instruct students to prepare a brief presentation demonstrating their FastAPI-based web application.
+
+Encourage them to showcase the application's features and usability.
+Allow time for questions and discussions.
+Task 6: Submission (15 minutes)
+13. Set a submission deadline for the assignment. Students should submit their FastAPI-based web application code, documentation, and the presentation slides by the specified deadline.
+
+Grading Criteria:
+The assignment will be evaluated based on the following criteria:
+
+Successful development of a FastAPI-based web application.
+User-friendly interfaces for model input and output.
+Comprehensive and clear documentation.
+Quality of the presentation and the application's usability.
+Accuracy and correctness of the machine learning model's predictions.

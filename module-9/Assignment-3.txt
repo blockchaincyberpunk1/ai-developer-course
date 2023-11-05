@@ -1,0 +1,33 @@
+Research Paper Review in AI
+
+Assignment Overview:
+This assignment is designed to enhance students' critical thinking skills and research paper analysis in the field of AI, machine learning, or deep learning. Students will be provided with a recent research paper, which they will review, summarize, and evaluate.
+
+Assignment Instructions:
+
+Task 1: Paper Selection (1-2 hours)
+
+Provide students with a selection of recent research papers in AI, machine learning, or deep learning. The papers should be relevant to the course content.
+Instruct each student to choose one paper from the provided selection or allow them to propose a paper of their own for approval.
+Task 2: Paper Review (4-5 hours)
+3. Assign students to thoroughly read and critically review the chosen research paper. Their review should include:
+
+A summary of the paper's key findings, objectives, and contributions.
+An assessment of the research methodology and experiments conducted.
+An evaluation of the paper's strengths and weaknesses, including any limitations.
+A discussion of the potential real-world applications and implications of the research.
+An explanation of how the paper relates to topics covered in the course.
+Task 3: Written Review (2-3 hours)
+4. Request students to write a formal review of the research paper. The review should be structured and well-organized, addressing all the points outlined in Task 2.
+
+Emphasize the importance of clear and concise writing, proper citation, and references to support their arguments and observations.
+Task 4: Presentation (Optional, 2-3 hours)
+6. Offer students the option to present their paper reviews to the class. This allows for peer learning and sharing of insights.
+
+Grading Criteria:
+Evaluation will be based on the following criteria:
+
+Quality and depth of the paper review.
+Clarity of writing and organization.
+Critical analysis of the paper's strengths, weaknesses, and real-world applications.
+Proper citation and referencing.

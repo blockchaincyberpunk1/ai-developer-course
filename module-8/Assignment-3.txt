@@ -1,0 +1,39 @@
+Transparency and Explainability in AI
+
+Assignment Overview:
+In this assignment, students will investigate the critical concepts of transparency and explainability in AI systems. They will select a machine learning model or AI application and assess its level of transparency. Subsequently, students will propose strategies to enhance the model's interpretability and explainability, making it more accessible to users and stakeholders.
+
+Assignment Instructions:
+
+Task 1: Introduction to Transparency and Explainability (1-2 hours)
+
+Provide an overview of the significance of transparency and explainability in AI, emphasizing their role in building trust and accountability.
+Explain how a lack of transparency can lead to distrust and user apprehension regarding AI systems.
+Task 2: Model or Application Selection (1-2 hours)
+3. Instruct students to choose a specific machine learning model or AI application they want to evaluate for transparency and explainability.
+
+Encourage them to select a model or application that piques their interest and relevance, which could include image classifiers, chatbots, recommendation systems, etc.
+Task 3: Assessing Transparency (2-3 hours)
+5. Ask students to investigate and evaluate the selected model or application's transparency. This includes assessing the availability of information about the model's inner workings and decision-making process.
+
+Instruct them to identify any areas where the model lacks transparency, such as complex black-box algorithms.
+Task 4: Strategies for Explainability (2-3 hours)
+7. Present various strategies and techniques for enhancing the explainability of AI systems, such as LIME (Local Interpretable Model-Agnostic Explanations), SHAP (SHapley Additive exPlanations), or rule-based approaches.
+
+Assign students to propose and justify specific strategies to make their chosen model or application more interpretable.
+Task 5: Implementation and Documentation (3-4 hours)
+9. Instruct students to implement the selected explainability strategies on the chosen model or application.
+
+Encourage them to document their implementation process and any code changes made.
+Emphasize the importance of maintaining or improving the model's performance while enhancing explainability.
+Task 6: Presentation or Report (2-3 hours)
+12. Require students to create a presentation or write a report summarizing their findings, including the initial assessment of transparency, the chosen strategies for enhancing explainability, and the implementation details.
+
+Encourage them to include visualizations, code snippets, and before-and-after comparisons to illustrate improvements.
+Grading Criteria:
+The assignment will be assessed based on the following criteria:
+
+The depth of assessment of the model's transparency.
+The thoughtfulness and justifiability of chosen explainability strategies.
+The effectiveness of implementation and documentation.
+The quality of the presentation or report, including visuals and code explanations.

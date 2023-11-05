@@ -1,0 +1,46 @@
+Robot Manipulation with RL
+
+Assignment Overview:
+In this assignment, students will delve into the field of robotics manipulation using reinforcement learning (RL). They will be presented with a robotic manipulation scenario, such as a robotic arm picking up objects. Their task is to design and implement an RL-based approach to train the robot to perform the manipulation task effectively. The assignment will require students to define the environment, design a reward structure, implement an RL algorithm, and report on their results.
+
+Assignment Instructions:
+
+Task 1: Scenario Introduction (1-2 hours)
+
+Introduce students to a robotics manipulation scenario. Provide them with access to a simulated robotic arm, a workspace with objects, and a specific manipulation task (e.g., picking up objects and placing them in a designated location).
+Task 2: RL Algorithm Selection (1-2 hours)
+2. Instruct students to select an RL algorithm suitable for solving the robot manipulation task. They can choose from algorithms such as Proximal Policy Optimization (PPO), Trust Region Policy Optimization (TRPO), or any other RL method they find appropriate.
+
+Ask them to justify their choice based on the task's complexity and requirements.
+Task 3: Environment Design (2-3 hours)
+4. Task students with designing the simulation environment for the robotic manipulation task. They should define the robot's state and action spaces, as well as the objects and obstacles in the environment.
+
+Encourage them to implement the necessary physics simulations to mimic real-world dynamics.
+Task 4: Reward Design (2-3 hours)
+6. Have students design a reward structure that guides the robot's learning process. The reward function should encourage desirable behaviors and discourage undesired actions.
+
+Instruct them to explain the rationale behind their reward design choices.
+Task 5: Implementation (6-8 hours)
+8. Task students with implementing the selected RL algorithm to train the robot for manipulation.
+
+They should write code to define the robot's action policy, implement the learning algorithm, and set up the training loop.
+Instruct them to document their code thoroughly and include comments explaining key components.
+Task 6: Training and Optimization (6-8 hours)
+11. Have students run multiple training episodes to train the robot for the manipulation task.
+
+Encourage them to fine-tune hyperparameters, adjust the reward function if necessary, and track training progress.
+Task 7: Results and Challenges (2-3 hours)
+13. Ask students to report the results of their RL training, including the robot's ability to perform the manipulation task, any observed challenges or limitations, and any optimizations made during training.
+
+Task 8: Conclusion and Reflection (1-2 hours)
+14. Instruct students to write a conclusion summarizing their findings and reflecting on the effectiveness of RL in solving the robot manipulation task.
+
+Encourage them to discuss potential real-world applications of RL in robotic manipulation.
+Grading Criteria:
+The assignment will be evaluated based on the following criteria:
+
+Correct implementation of the selected RL algorithm.
+Quality of code documentation and comments.
+Successful training of the robot in the simulated environment.
+Reporting of training results, including challenges and optimizations.
+Thoughtful reflection on the application of RL in robot manipulation.

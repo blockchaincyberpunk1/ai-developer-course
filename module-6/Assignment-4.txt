@@ -1,0 +1,45 @@
+Model Deployment as a Container
+
+Assignment Overview:
+In this assignment, students will explore the concept of containerization with Docker and learn how it can be applied to deploy machine learning models and their dependencies. They will be tasked with containerizing a pre-trained machine learning model, creating a Dockerfile, building a container image, and running the model inside a container. This assignment provides practical experience in packaging AI models for efficient deployment and scalability.
+
+Assignment Instructions:
+
+Task 1: Introduction to Docker (1 hour)
+
+Provide students with an introduction to Docker and containerization, explaining the advantages of using containers for deploying AI models.
+Emphasize the importance of creating reproducible and isolated environments for AI applications.
+Task 2: Setting Up Docker (1 hour)
+3. Instruct students to install Docker on their local development machines if they haven't already.
+
+Provide guidance on basic Docker commands for managing containers and images.
+Task 3: Containerizing the Model (4-5 hours)
+5. Explain the concept of a Dockerfile and its role in defining container images.
+
+Task students with choosing a pre-trained machine learning model (e.g., scikit-learn, TensorFlow, PyTorch) and its associated dependencies.
+Instruct them to create a Dockerfile that specifies how to build a container image with the chosen model and dependencies.
+Encourage students to optimize the Dockerfile for efficiency and security.
+Demonstrate how to build the container image and run the model within it.
+Task 4: Model Deployment and Testing (2-3 hours)
+10. Task students with deploying the containerized model and ensuring it works correctly.
+
+Instruct them to test the deployed model with various inputs to validate its functionality.
+Emphasize the benefits of containerized models in terms of reproducibility and scalability.
+Task 5: Documentation and Report (2 hours)
+13. Instruct students to create documentation that includes:
+- Instructions for building and running the containerized model.
+- Details about the chosen model and its use case.
+- Any additional configurations or considerations.
+14. Task them with writing a report summarizing their experience, challenges faced, and insights gained during the containerization process.
+
+Task 6: Submission (15 minutes)
+15. Set a submission deadline for the assignment. Students should submit their Dockerfile, documentation, and the report by the specified deadline.
+
+Grading Criteria:
+The assignment will be evaluated based on the following criteria:
+
+Correct creation of a Dockerfile for containerization.
+Successful building and deployment of the containerized model.
+Clear and comprehensive documentation.
+Thorough testing and validation of the containerized model.
+Thoughtful reflection in the report, addressing challenges and insights.

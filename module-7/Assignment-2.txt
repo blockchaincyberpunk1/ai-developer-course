@@ -1,0 +1,40 @@
+Q-learning Implementation
+
+Assignment Overview:
+In this assignment, students will put their knowledge of Q-learning into practice by implementing the Q-learning algorithm to train an agent within a simple grid world environment. The agent's goal is to navigate the grid world and collect rewards according to a predefined reward structure. Students will be required to provide their Q-learning code, including Q-table updates, and document the agent's learning progress.
+
+Assignment Instructions:
+
+Task 1: Grid World Environment (1 hour)
+
+Provide students with a simple grid world environment, which can be represented as a grid of cells.
+Define the starting position of the agent and the locations of rewards (positive and negative) within the grid.
+Explain the rules for agent movement within the grid (e.g., up, down, left, right).
+Task 2: Q-Learning Implementation (3-4 hours)
+4. Instruct students to implement the Q-learning algorithm in Python. They should create a Python script or Jupyter Notebook for their implementation.
+
+Encourage students to use appropriate data structures to represent the Q-table, which tracks the Q-values for state-action pairs.
+Task them with defining the Q-learning parameters, including the learning rate (alpha), discount factor (gamma), exploration rate (epsilon), and the number of episodes.
+Task 3: Agent Training (3-4 hours)
+7. Ask students to program the agent to navigate the grid world environment using the Q-learning algorithm.
+
+Instruct them to log the agent's learning progress during training, including Q-value updates and rewards collected.
+Require students to implement epsilon-greedy exploration to balance exploration and exploitation.
+Task 4: Results Analysis (2-3 hours)
+10. After training, students should analyze the performance of their Q-learning agent. They should measure metrics like the total rewards collected, the number of steps taken, and the convergence of Q-values.
+
+Encourage them to visualize the agent's path in the grid world and create plots or graphs to illustrate learning progress.
+Task 5: Presentation (15-20 minutes)
+12. Instruct students to prepare a presentation summarizing their Q-learning implementation. They should explain their Q-learning code, share results and insights, and discuss any challenges faced during implementation.
+
+Allocate time for questions and discussions following the presentations.
+Task 6: Submission (15 minutes)
+14. Set a submission deadline for the assignment. Students should submit their Q-learning code, results, presentation slides, and any relevant documentation by the specified deadline.
+
+Grading Criteria:
+The assignment will be evaluated based on the following criteria:
+
+Correct implementation of the Q-learning algorithm.
+Clarity and completeness of the Q-learning code.
+Effectiveness of the agent's training and learning progress.
+Quality of the presentation and ability to communicate implementation details and results.

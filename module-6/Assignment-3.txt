@@ -1,0 +1,46 @@
+Model Deployment using Flask
+
+Assignment Overview:
+In this assignment, students will learn the basics of Flask, a Python web framework, and gain practical experience in deploying a pre-trained machine learning model as a RESTful API. They will choose a pre-trained model (e.g., scikit-learn, TensorFlow, PyTorch) and create a Flask web application that exposes the model's predictive capabilities via HTTP requests. The assignment includes providing a step-by-step guide on how to use the API for making predictions.
+
+Assignment Instructions:
+
+Task 1: Introduction to Flask (1 hour)
+
+Provide students with an introduction to Flask as a lightweight and flexible web framework for Python.
+Explain the concept of web APIs and their significance in machine learning model deployment.
+Task 2: Setting Up the Development Environment (1 hour)
+3. Instruct students to set up their development environment, including installing Flask and any required dependencies.
+
+Ensure they have access to a pre-trained machine learning model that they will deploy as part of this assignment.
+Task 3: Building the Flask API (4-5 hours)
+5. Teach students how to create a basic Flask application with routes and views.
+
+Instruct them on how to integrate their pre-trained machine learning model into the Flask application.
+Guide them in defining an API endpoint that accepts input data for making predictions.
+Students should implement code to load the model and use it to make predictions based on the input data.
+Encourage them to handle error cases gracefully and return appropriate responses.
+Task 4: API Documentation (2 hours)
+10. Task students with creating clear and concise API documentation that explains how to interact with their Flask API.
+
+The documentation should include:
+Details on API endpoints and their purposes.
+Example input data and expected output format.
+Instructions on how to make HTTP requests to the API using tools like curl or Python's requests library.
+Stress the importance of providing user-friendly and informative documentation.
+Task 5: Testing and Validation (2-3 hours)
+13. Instruct students to thoroughly test their Flask API using various inputs to ensure it functions correctly.
+
+Emphasize the importance of validating inputs, handling exceptions, and providing meaningful error messages.
+Encourage students to demonstrate the functionality of their API with real-world examples or sample use cases.
+Task 6: Submission (15 minutes)
+16. Set a submission deadline for the assignment. Students should submit their Flask web application code, along with the API documentation, by the specified deadline.
+
+Grading Criteria:
+The assignment will be evaluated based on the following criteria:
+
+Correct implementation of a Flask web application.
+Successful integration of a pre-trained machine learning model.
+Clear and comprehensive API documentation.
+Proper handling of inputs, exceptions, and responses.
+Effective testing and validation of the Flask API.

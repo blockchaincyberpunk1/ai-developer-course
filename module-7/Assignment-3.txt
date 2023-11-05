@@ -1,0 +1,42 @@
+RL in Robotics Research
+
+Assignment Overview:
+In this assignment, students will explore recent research papers or articles that discuss the application of reinforcement learning (RL) in robotics. They will be tasked with summarizing the key findings, identifying challenges, and evaluating the contributions of these papers. The goal is to encourage critical analysis of the effectiveness of RL techniques in addressing real-world robotic tasks.
+
+Assignment Instructions:
+
+Task 1: Paper Selection (1-2 hours)
+
+Provide students with a list of recent research papers or articles (within the last 2-3 years) that focus on the application of reinforcement learning in robotics.
+Instruct each student to select one paper from the provided list or find a relevant paper independently. Ensure that there is a variety of papers covering different aspects of RL in robotics.
+Task 2: Paper Summary (2-3 hours)
+3. Once students have selected their papers, ask them to thoroughly read and summarize the selected paper's key points, including:
+
+The problem or robotic task addressed in the paper.
+The RL algorithms or techniques employed.
+The experimental setup and methodology.
+The results and findings presented in the paper.
+Task 3: Challenges and Contributions (2-3 hours)
+4. Instruct students to identify and discuss the challenges faced in applying RL to robotics, as highlighted in the paper.
+
+Ask them to describe the contributions made by the authors of the paper in addressing these challenges or advancing the field of RL in robotics.
+Task 4: Critical Analysis (2-3 hours)
+6. Encourage students to critically analyze the effectiveness of RL techniques in solving real-world robotic tasks based on the paper's findings.
+
+Ask them to consider the limitations or shortcomings mentioned in the paper and whether these limitations impact the practical application of RL in robotics.
+Task 5: Presentation or Report (15-20 minutes)
+8. Instruct students to prepare either a presentation or a written report summarizing their chosen paper, key findings, challenges, contributions, and critical analysis.
+
+Allocate time for presentations or report submissions.
+Task 6: Discussion and Peer Review (15-20 minutes)
+10. After presentations or report submissions, facilitate a class discussion where students can share their insights and engage in peer review.
+
+Encourage students to ask questions and provide constructive feedback to their peers.
+Grading Criteria:
+The assignment will be evaluated based on the following criteria:
+
+Clarity and completeness of the paper summary.
+Identification and discussion of challenges and contributions.
+Critical analysis of the paper's findings.
+Quality of the presentation or report.
+Active participation in the peer review and discussion.

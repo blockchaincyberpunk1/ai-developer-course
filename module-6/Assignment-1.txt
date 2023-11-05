@@ -1,0 +1,52 @@
+TensorFlow vs. PyTorch Comparison
+
+Assignment Overview:
+In this assignment, students will explore and compare two of the most popular deep learning frameworks, TensorFlow and PyTorch. They will conduct research to understand the strengths, weaknesses, and common use cases of each framework and provide code examples to illustrate key features. This assignment will help students make informed decisions about which framework to use for various machine learning and deep learning projects.
+
+Assignment Instructions:
+
+Task 1: Introduction to TensorFlow and PyTorch (1 hour)
+
+Provide students with an overview of the assignment and explain its objectives.
+Briefly introduce TensorFlow and PyTorch as two prominent deep learning frameworks.
+Highlight the significance of comparing these frameworks for machine learning and deep learning projects.
+Task 2: Research and Comparison (3 hours)
+4. Instruct students to research TensorFlow and PyTorch extensively. They should explore official documentation, tutorials, and online resources to understand the following aspects:
+
+Core architecture and design philosophy.
+Ease of use and learning curve.
+Flexibility and customizability.
+Community support and ecosystem.
+Performance and scalability.
+Deployment options.
+Encourage students to create a table or matrix to systematically compare the strengths and weaknesses of both frameworks based on their research.
+Ask students to identify common use cases for each framework, including scenarios where one may be more suitable than the other.
+Task 3: Code Examples (4 hours)
+7. Task students with providing code examples in both TensorFlow and PyTorch to illustrate key features of each framework. Examples may include:
+
+Building a simple neural network.
+Implementing a popular deep learning architecture (e.g., CNN or RNN).
+Loading and preprocessing a dataset.
+Training a model and evaluating its performance.
+Implementing custom loss functions or layers.
+Students should include comments and explanations in their code to ensure clarity.
+Task 4: Comparison Report (2 hours)
+9. Request students to compile their research findings and code examples into a comprehensive comparison report. The report should include the following sections:
+
+Introduction.
+Framework Overview (brief overview of each framework).
+Strengths and Weaknesses (detailed comparison).
+Use Cases (when to use TensorFlow or PyTorch).
+Code Examples (with explanations).
+Conclusion (summary of findings).
+Specify the format for report submission, whether it's a written document or another suitable format.
+Task 5: Submission (15 minutes)
+11. Set a submission deadline for the assignment. Students should submit their comparison reports by the specified deadline.
+
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Thoroughness of research and comparison.
+Clarity and quality of code examples.
+Depth of insights into the strengths, weaknesses, and use cases of TensorFlow and PyTorch.
+Overall structure and presentation of the comparison report.

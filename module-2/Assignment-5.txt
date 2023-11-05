@@ -1,0 +1,49 @@
+Model Evaluation
+
+Assignment Overview:
+In this assignment, students will focus on the crucial aspect of model evaluation in machine learning. They will work with a provided dataset and machine learning problem (either regression or classification). Students will build a machine learning model using an algorithm of their choice, split the dataset into training and testing sets, train the model, and evaluate its performance using appropriate evaluation metrics. They will also experiment with different evaluation techniques, such as cross-validation, and provide insights into the strengths and weaknesses of their chosen model.
+
+Assignment Instructions:
+
+Task 1: Introduction to Model Evaluation (15 minutes)
+
+Provide an introduction to the assignment, explaining the significance of model evaluation in assessing the effectiveness of machine learning models and making informed decisions.
+Task 2: Dataset Selection and Problem Statement (15 minutes)
+2. Provide students with a dataset and specify whether the task is regression or classification. Ensure that the dataset is suitable for the chosen problem.
+
+Task 3: Model Selection and Training (2 - 3 hours)
+3. Instruct students to perform the following tasks:
+
+Data Splitting:
+
+Split the dataset into training and testing sets. Specify the train-test split ratio.
+Model Selection:
+
+Choose a machine learning algorithm suitable for the problem (e.g., Linear Regression, Decision Tree Classifier).
+Model Training:
+
+Train the selected model using the training dataset.
+Task 4: Model Evaluation (3 - 4 hours)
+4. Instruct students to perform the following tasks:
+
+Evaluation Metrics:
+
+Choose appropriate evaluation metrics based on the problem type (e.g., Mean Absolute Error and R-squared for regression, Accuracy and F1-score for classification).
+Model Testing:
+
+Test the trained model using the testing dataset.
+Evaluation Analysis:
+
+Encourage students to experiment with different evaluation techniques, such as cross-validation or hyperparameter tuning, and provide insights into the strengths and weaknesses of their chosen model.
+Task 5: Documentation and Analysis (1 - 2 hours)
+5. Instruct students to document their model evaluation process, including code, evaluation metrics, and analysis of model performance. They should also discuss any challenges encountered during evaluation.
+
+Task 6: Submission (30 minutes - 1 hour)
+6. Request students to submit their documentation, including code, evaluation metrics, and insights from the model evaluation and analysis.
+
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Correct implementation of data splitting, model selection, and training.
+Appropriate choice of evaluation metrics.
+Clarity and depth of documentation and analysis of model performance.

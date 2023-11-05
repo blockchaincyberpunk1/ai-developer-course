@@ -1,0 +1,54 @@
+Convolutional Neural Networks (CNNs) Overview
+
+Assignment Overview:
+In this assignment, students will dive into the world of Convolutional Neural Networks (CNNs), a fundamental architecture in deep learning for image recognition and analysis. They will learn about the structure of CNNs, the concept of convolution layers, and the reasons why CNNs excel in image-related tasks. Real-world examples of CNN architectures used in popular image recognition applications will be provided for reference.
+
+Assignment Instructions:
+
+Task 1: Introduction to CNNs (20 minutes)
+
+Provide an introduction to the assignment, emphasizing the importance of CNNs in image recognition and analysis.
+Task 2: CNN Architecture and Convolution Layers (2 - 3 hours)
+2. Instruct students to perform the following tasks:
+
+CNN Basics:
+
+Explain the structure of a Convolutional Neural Network, including input layers, convolution layers, pooling layers, fully connected layers, and output layers.
+Describe the concept of convolution and how it is applied in CNNs.
+Convolution Layers:
+
+Provide a detailed explanation of convolutional layers, filters/kernels, and feature maps.
+Discuss the importance of weight sharing and local receptive fields in convolution layers.
+Task 3: CNNs in Image Recognition (2 - 3 hours)
+3. Students should proceed with the following tasks:
+
+Image Analysis with CNNs:
+
+Explain why CNNs are particularly suited for image recognition and analysis tasks, emphasizing their ability to capture spatial hierarchies and detect features.
+Popular CNN Architectures:
+
+Present examples of well-known CNN architectures used in image recognition, such as LeNet, AlexNet, VGGNet, GoogLeNet (Inception), and ResNet.
+Highlight the unique features and contributions of each architecture.
+Task 4: Real-World Applications (2 - 3 hours)
+4. Provide examples of real-world applications where CNNs have made significant contributions, such as:
+
+Image classification (e.g., recognizing objects in photos).
+Object detection (e.g., identifying and locating objects within an image).
+Image segmentation (e.g., separating an image into meaningful regions).
+Encourage students to explore and understand the practical impact of CNNs in these applications.
+
+Task 5: Discussion and Reflection (1 - 2 hours)
+5. Engage students in a discussion about the potential and limitations of CNNs. Encourage them to reflect on why CNNs have become a cornerstone in computer vision.
+
+Task 6: Presentation or Report (2 - 3 hours)
+6. Request students to create a presentation or write a report summarizing the key concepts discussed in the assignment, including CNN architecture, convolution layers, real-world applications, and their reflections.
+
+Task 7: Submission (30 minutes - 1 hour)
+7. Ask students to submit their presentation slides or written reports by the assigned deadline.
+
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Clarity and depth of explanations regarding CNN architecture and convolution layers.
+Accuracy and relevance of real-world CNN examples.
+Engagement and participation in the discussion and reflection.

@@ -1,0 +1,42 @@
+Fairness and Bias in AI
+
+Assignment Overview:
+In this assignment, students will delve into the critical topics of fairness and bias in artificial intelligence (AI) and machine learning models. They will explore how biases can emerge in AI systems, particularly through data and algorithmic choices. Using a provided dataset, students will analyze it for potential biases, such as gender or racial bias, and propose methods to mitigate these biases and enhance fairness in AI systems.
+
+Assignment Instructions:
+
+Task 1: Introduction to Fairness and Bias in AI (1-2 hours)
+
+Provide an introduction to the concepts of fairness and bias in AI, emphasizing their significance in ensuring equitable AI technologies.
+Discuss how AI models can unintentionally perpetuate biases present in training data and algorithms.
+Task 2: Dataset Analysis for Bias (2-3 hours)
+3. Supply students with a dataset that may exhibit biases related to gender, race, or other sensitive attributes.
+
+Instruct students to perform an exploratory data analysis (EDA) to identify potential biases in the dataset.
+Ask them to calculate relevant metrics (e.g., disparate impact, equal opportunity difference) to quantify bias in the dataset.
+Task 3: Bias Mitigation Strategies (3-4 hours)
+6. Present various bias mitigation strategies, such as re-sampling techniques, re-weighting, and adversarial debiasing.
+
+Assign students to propose and implement one or more mitigation methods on the provided dataset.
+Encourage them to document their approach and any code used for bias mitigation.
+Task 4: Fairness Enhancement (2-3 hours)
+9. Discuss strategies for enhancing fairness in AI systems, including fairness-aware machine learning algorithms and fairness constraints.
+
+Task students with proposing ways to enhance the fairness of AI models beyond bias mitigation.
+Task 5: Report Composition (2-3 hours)
+11. Instruct students to compile their findings and analyses into a comprehensive report.
+
+The report should include an introduction, sections on dataset analysis, bias mitigation, fairness enhancement, and a conclusion.
+Encourage them to include visualizations, code snippets, and references for their sources.
+Task 6: Reflection and Recommendations (1-2 hours)
+14. Ask students to reflect on the challenges and ethical implications of addressing bias in AI systems.
+
+Invite them to provide recommendations for organizations and practitioners to ensure fairness in AI development.
+Grading Criteria:
+The assignment will be assessed based on the following criteria:
+
+The depth of dataset analysis for biases and the application of appropriate metrics.
+Clarity and effectiveness of proposed bias mitigation methods.
+Insightful strategies for enhancing fairness in AI systems.
+The quality and organization of the report, including visuals and code snippets.
+Thoughtful reflection and actionable recommendations for addressing bias in AI.
